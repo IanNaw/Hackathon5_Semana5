@@ -1,0 +1,13 @@
+.Link_Container {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    
+    justify-content: flex-end;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(27, 27, 29);
+    font-weight: 500;
+}

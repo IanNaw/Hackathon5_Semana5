@@ -1,0 +1,40 @@
+form{
+    width: 100%;
+    margin: 0 auto;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+form div {
+    border-bottom: solid #bebebe 2px;
+}
+
+label{
+    letter-spacing: 2px;
+    color: #bebebe;
+}
+
+.My_Inputs{
+    width: 70vw;
+    max-width: 70vw;
+    height: 45px;
+    border: none;
+    
+    
+}
+
+.div_Wrapper {
+    width: auto;
+    display: flex;
+    
+}
+
+.Show_Button {
+    border: none;
+    color: #78C5ef;
+    background: none;
+}
